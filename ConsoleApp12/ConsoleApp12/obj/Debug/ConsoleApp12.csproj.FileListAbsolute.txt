@@ -1,0 +1,9 @@
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\nunit.framework.dll
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\nunit.framework.xml
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CopyComplete
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\Gaurav\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
