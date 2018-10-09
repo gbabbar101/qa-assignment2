@@ -8,6 +8,7 @@ namespace ConsoleApp12
 {
     public class TriangleSolver
     {
+        //creating class named TriangleSolver
             int x, y, z;
             public TriangleSolver()
             {
